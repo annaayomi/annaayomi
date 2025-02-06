@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @annaayomi
 - 👀 I’m interested in ...Data Analysis
-- 🌱 I’m currently learning ...Data Analytics
+- 🌱 I’m a certified ...Data Analyst
 - 💞️ I’m looking to collaborate on projects...
 - 📫 How to reach me ...via linkedin www.linkedin.com/in/ayomiposi-anna-ayorinde-7a2135236
 
